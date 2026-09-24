@@ -46,7 +46,7 @@
 ####%%%%&&&&@@@@@@@(***(****/****   ,,,,,...                         ...........
 
 
-┌──┤ WHOAMI ├─────────▰▰▰
+┌──┤ whoami ├─────────▰▰▰
 │
 │   Tomas Beaujean, a.k.a. mebibite or MiB. My journey under this moniker began
 │   more than 20 years ago when I joined Cult of the Dead Cow’s Hacktivismo and
@@ -55,11 +55,8 @@
 │   rights groups in protecting activists and journalists operating under
 │   oppressive regimes.
 │
-│   Today, my professional focus encompasses automating attack surface and
-│   vulnerability management, application security, penetration testing, and
-│   security leadership. I am driven by a deep technical curiosity and a
-│   commitment to addressing the root causes of security issues, not just
-│   identifying them.
+│   Today, my professional focus encompasses Application Security, Offensive
+|   Security, and security leadership.
 │
 │   Beyond security, I am passionate about producing electronic music, writing
 │   books, exploring art in its many forms, productivity, and building robots
@@ -68,7 +65,7 @@
 └───────────────────────────────▰▰▰
 
 
-┌──┤ LINKS ├─────────▰▰▰
+┌──┤ links ├─────────▰▰▰
 │
 ├─◈ Website:  <a href="https://mebibite.me">mebibite.me</a>
 ├─◈ LinkedIn: <a href="https://www.linkedin.com/in/tomasbeaujean/">www.linkedin.com/in/tomasbeaujean/</a>
